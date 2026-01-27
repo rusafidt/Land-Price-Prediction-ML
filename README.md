@@ -35,6 +35,7 @@ Visualize predictions and performance metrics to interpret the model’s behavio
 ├── data/
 │ └── land_prices.csv
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
