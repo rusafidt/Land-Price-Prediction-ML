@@ -54,8 +54,8 @@ Visualize predictions and performance metrics to interpret the model’s behavio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/rusafidt/Land-Price-Prediction-ML
+cd Land-Price-Prediction-ML
 ```
 
 ### 2. Install dependencies
